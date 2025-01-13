@@ -6,3 +6,4 @@ Following packages are preinstalled:
 -   Tailwind CSS
 -   ShadCN
 -   React Helmet
+-   React Router DOM
