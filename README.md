@@ -1,4 +1,4 @@
-Template React + Vite application.
+Template React + Vite + TypeScript application.
 
 Following packages are preinstalled:
 -   Axios
